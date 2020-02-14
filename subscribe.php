@@ -3,10 +3,10 @@
 ## CONFIG ##
 
 # LIST EMAIL ADDRESS
-$recipient = "sam.infos@gmail.com";
+$recipient = "ivan.montes.developer@gmail.com";
 
 # SUBJECT (Subscribe/Remove)
-$subject = "Subscribe";
+$subject = "New Subscribe";
 
 # RESULT PAGE
 $location = "index.html";
